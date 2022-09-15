@@ -1,0 +1,26 @@
+
+  
+body{
+    padding: 0%;
+    margin:0%;
+    font-family: "Poppins",sans-serif;
+   background-color:aquamarine;
+}
+input[type="button"]{
+    cursor: pointer;
+}
+.target{
+    color:darkred;
+}
+a {
+    box-shadow: inset 0 0 0 0 #54b3d6;
+    color: #6692b9;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+
+  }
+  a:hover {
+    box-shadow: inset 18 0px 0 0 0 #54b3d6;
+    color: rgba(63, 40, 177, 0.846);
+  }
